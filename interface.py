@@ -108,7 +108,7 @@ class Main:
                 print("===================================\n")
 
             elif opcao == 9:
-                valor = float(input("\nInsira o valor: "))
+                valor = float(input("\nInsira o valora: "))
 
                 print("===================================")
                 print(Logaritmo.logaritmo(valor))
